@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2015\Projects\Friends\Friends\bin\Debug\Friends.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Friends\Friends\obj\Debug\Friends.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Friends\Friends\bin\Debug\Friends.exe
+c:\users\user\documents\visual studio 2015\Projects\Friends\Friends\bin\Debug\Friends.pdb
+c:\users\user\documents\visual studio 2015\Projects\Friends\Friends\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2015\Projects\Friends\Friends\bin\Debug\VkNet.dll
+c:\users\user\documents\visual studio 2015\Projects\Friends\Friends\bin\Debug\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2015\Projects\Friends\Friends\bin\Debug\VkNet.pdb
+c:\users\user\documents\visual studio 2015\Projects\Friends\Friends\bin\Debug\VkNet.xml
+c:\users\user\documents\visual studio 2015\Projects\Friends\Friends\obj\Debug\Friends.exe
+c:\users\user\documents\visual studio 2015\Projects\Friends\Friends\obj\Debug\Friends.pdb
+c:\users\user\documents\visual studio 2015\Projects\Friends\Friends\bin\Debug\HtmlAgilityPack.dll
+c:\users\user\documents\visual studio 2015\Projects\Friends\Friends\bin\Debug\HtmlAgilityPack.pdb
+c:\users\user\documents\visual studio 2015\Projects\Friends\Friends\bin\Debug\HtmlAgilityPack.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Friends\Friends\bin\Debug\Database1.mdf
+C:\Users\User\Documents\Visual Studio 2015\Projects\Friends\Friends\bin\Debug\Database1_log.ldf
